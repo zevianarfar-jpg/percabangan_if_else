@@ -1,0 +1,14 @@
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\bin\Debug\net10.0\percabangan.exe
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\bin\Debug\net10.0\percabangan.deps.json
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\bin\Debug\net10.0\percabangan.runtimeconfig.json
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\bin\Debug\net10.0\percabangan.dll
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\bin\Debug\net10.0\percabangan.pdb
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\obj\Debug\net10.0\percabangan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\obj\Debug\net10.0\percabangan.AssemblyInfoInputs.cache
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\obj\Debug\net10.0\percabangan.AssemblyInfo.cs
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\obj\Debug\net10.0\percabangan.csproj.CoreCompileInputs.cache
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\obj\Debug\net10.0\percabangan.dll
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\obj\Debug\net10.0\refint\percabangan.dll
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\obj\Debug\net10.0\percabangan.pdb
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\obj\Debug\net10.0\percabangan.genruntimeconfig.cache
+C:\Users\ZEVIAN\OneDrive\Documents\percabangan\obj\Debug\net10.0\ref\percabangan.dll
